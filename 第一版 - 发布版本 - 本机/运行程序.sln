@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeTrans V1.0", "WindowsFormsApp3\WeTrans V1.0.csproj", "{DBA00FBF-5FBC-4BA4-B64D-034A6487DDA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA00FBF-5FBC-4BA4-B64D-034A6487DDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA00FBF-5FBC-4BA4-B64D-034A6487DDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA00FBF-5FBC-4BA4-B64D-034A6487DDA3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DBA00FBF-5FBC-4BA4-B64D-034A6487DDA3}.Debug|x86.Build.0 = Debug|Any CPU
+		{DBA00FBF-5FBC-4BA4-B64D-034A6487DDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA00FBF-5FBC-4BA4-B64D-034A6487DDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA00FBF-5FBC-4BA4-B64D-034A6487DDA3}.Release|x86.ActiveCfg = Release|Any CPU
+		{DBA00FBF-5FBC-4BA4-B64D-034A6487DDA3}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9200F01E-DF4E-4257-8A88-43F14C3DFFEC}
+	EndGlobalSection
+EndGlobal

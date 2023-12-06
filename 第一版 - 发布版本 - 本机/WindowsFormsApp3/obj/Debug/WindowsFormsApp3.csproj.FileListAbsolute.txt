@@ -1,0 +1,621 @@
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WinformDemo.exe
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WinformDemo.pdb
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WinformDemo.exe.config
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2021大三学习\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2021大三学习\C#\WindowsFormsApp3 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2021大三学习\C#\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\基于C#的计算机辅助翻译系统\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第二版-优化远程SQL语句\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第三版-消除蒙版引入多线程\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查+NLP\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-优化容器刷新问题【术语库和记忆库】\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第四版-第一次全面复查-【编辑器】刷新优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第五版-API 调用 - 副本\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第六版-第二次复查+登陆注册界面优化\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.Welcome.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-头像、登陆注册\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.ChangeUserInfo.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.ChangeUserInfo.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.Welcome.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第七版-上线头像，但是没从服务器获取头像数据\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.ChangeUserInfo.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.Welcome.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-优化界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.ChangeUserInfo.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.Welcome.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.setSplitSymbol.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第八版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginWin.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.setSplitSymbol.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginWin.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.ChangeUserInfo.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.Welcome.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第九版-头像、登陆注册界面\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.setSplitSymbol.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginWin.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.ChangeUserInfo.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.Welcome.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十版，最后更定\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.dll
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\bin\Debug\WcleAnimationLibrary.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\bin\Debug\WinformControlLibraryExtension.pdb
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.setSplitSymbol.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginWin.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainInterface.About.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\MainInterface.Interface.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditorInterface.SettingMatch.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.addMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.changeMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.deleteMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MemoryInterface.findMemory.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProjectInterface.createProjectFunc.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterForm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.addTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.changeTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TermBaseInterface.findTerm.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changeName.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.changePwd.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.ChangeUserInfo.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.WelcomeInterface.Welcome.resources
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2022大三下学期\计算机设计大赛\系统迭代版本\第十一版 - 模糊查询\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

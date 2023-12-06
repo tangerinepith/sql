@@ -1,0 +1,89 @@
+111 11 111 2022/4/14-21:12:15 2022/4/14-21:12:26 0%
+E:2022大三下学期计算机设计大赛测试文档Default.txt
+0
+1#14 Cases of Hypertension in Patients with Left Ventricular Hypertrophy TCM Analysis.
+1#138例高血压病左室肥厚患者中医辩证规律分析
+0
+1#Analysis of Risk Factors in Cases Complicated with pulmonary Infection.
+1#222222
+0
+1#Bacteria in plaque also cause gingivitis and other diseases.
+1#菌斑中的细菌还可以导致牙龈炎及其他牙周病。33222
+1
+1#Clinical analysis of 40 cases of mucosa contacted point headache.
+1#鼻腔黏膜接触点性头痛40例临床分析
+0
+1#Clinical analysis of 70 cases of esophageal carcinoma without dysphagia.
+1#70例无吞咽困难的中晚期食管癌临床分析3333
+1
+1#Clinical analysis of two kinds of physical means on chronic laryngitis.
+1#两种物理因子治疗慢性喉炎的临床分析5555
+0
+1#Cystitis and urethritis were complications of prolonged use of indwelling catheters.
+1#膀胱炎和尿道炎是长期应用留置导尿管的并发症。
+0
+1#Damages and the sound track or consumes wound lung being mad, and may cause the aphonia.
+1#损及声道或耗伤肺气者，亦可导致失音。
+0
+1#Effect of communication method improvement on patients with stroke dysphasia.
+1#改进沟通方法对脑卒中语言障碍患者抑郁程度的影响
+0
+1#Effects of candesartan  wave dispersion in patients with essential Hypertension.
+1#维尔亚和依那普利对原发性高血压患者心电图P波离散度的影响。
+0
+1#Exchange Method Between about Electrocardiogram text System and hotel Information System.
+1#心电信息系统与HIS系统的数据交换方法
+0
+1#Gastroenteritis was a disease characterized by abdominal pain, diarrhea, headache, and fever.
+1#胃肠炎是以腹痛、腹泻、头痛和发烧为特征的一种疾病。
+0
+1#He is suffering from chronic bronchitis.
+1#他患有慢性支气管炎。
+0
+1#His doctors tested him for hepatitis. What could be the cause of hepatomegaly in this case? the membrane fluidity of living Ehrlich ascites tumor cells was determined.
+0#
+0
+1#His wife is in b-four, stroke and aphasia.
+1#妻子住在b-4房间，患的是中风和失语症。
+0
+1#Impotence affects 10 million women in the US alone.
+0#
+0
+1#Methods An analysis of 48 cases of cryptorchidism.
+1#方法：对53例超声诊断隐睾症作回顾性分析。
+0
+1#Most men do not have to be worried for asthma or pneumonia.
+1#大多数哮喘或肺炎患者无需住院。
+0
+1#Preliminary Clinical Application of CT Virtual Cystoscopy in Bladder Lesions.
+1#CT仿真内镜在膀胱病变的临床应用初步研究
+0
+1#Research of a Method for Detecting Apnea of Obstructive Position.
+1#一种检测呼吸暂停阻塞部位方法的研究
+0
+1#Research of Main Motor Control System on Aseptic Milk Filling Machine.
+1#无菌液态奶灌装机主电动机控制系统研究
+0
+1#Researchs of the Hemostasis Effect of Chitosan Acetic Acid Solution.
+1#壳聚糖醋酸溶液对凝血作用的研究
+0
+1#Selection of Nursing Based on Differential Diagnosis to 18 Postoperative Dysuria Patients.
+1#18例术后癃闭病人的辨证施护
+0
+1#Study on feature extraction of leukocyte image based on fractal.
+1#基于分形维数的白细胞图像特征提取研究
+0
+1#The clinical application of CAP allergen screening system in allergic nasitis.
+0#
+0
+1#The fast glycemia maintained within normal range.
+1#其空腹血糖基本维持在正常范围内。
+0
+1#The main emphasis of our researchs have shifted to the prevention of infection and septicemia.
+1#我们研究的重点转到预防感染和败血病方面来。
+0
+1#This antipyretic action was usually rapid and effective in febrile patients.
+0#
+0
+1#which problem should gastrorrhagia note daily? The diagnosis and treatment of acute peritonitis in patients with advanced age. Doctors perform an emergency operation for appendicitis last night. Sweat is an excretion.
+0#
